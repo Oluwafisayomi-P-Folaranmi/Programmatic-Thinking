@@ -1,0 +1,14 @@
+import HALF_OF_A_SQUARE.HALF_OF_A_SQUARE;
+
+public class Main {
+
+    public static void main(String[] args) {
+
+        for (int row = 1; row <= 7; row++) {
+            for (int line = 1; line <= 4 - Math.abs(4 - row); line++) {
+                System.out.print("#");
+            }
+            System.out.println();
+        }
+    }
+}

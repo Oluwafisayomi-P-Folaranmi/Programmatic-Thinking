@@ -1,0 +1,78 @@
+1. What program can we write that is similar to this?
+
+```
+#####
+####
+###
+##
+#
+```
+
+We can write a rectangle instead of this triangle.
+The following is a Java code that writes out a rectangle.
+
+```java
+for (int i = 0; i < 5; i++) {
+    for (int j = 0; j < 5; j++) {
+        System.out.print("#");
+    }
+    System.out.println("");
+}
+```
+
+2. From the code, we can see that the problem is in the conditional, "j < 5".
+How can we make this conditional get reduced at every row. We can use algebra.
+Let's draw a table to visualise the output:
+
+| row | line | sum |
+| 1   |  5   |  6  |
+| 2   |  4   |  6  |
+| 3   |  3   |  6  |
+| 4   |  2   |  6  |
+| 5   |  1   |  6  |
+
+There is an algebraic pattern in this table. We can say that:
+line = sum - row, or better put that
+j = 6 - i
+Let's write a java code to experiment this:
+
+```java
+for (int row = 1; row <= 5; row++) {
+    for (int line = 1; line <= 5; line++) {
+        System.out.print(6 - row);
+    }
+    System.out.println("");
+}
+```
+
+When we tried this, we had an output of:
+
+```
+55555
+44444
+33333
+22222
+11111
+```
+
+Surely, the code tells us that....
+We can then fix the algebraic statement in the conditional statement.
+
+```java
+for (int row = 1; row <= 5; row++) {
+    for (int line = 1; line <= 6 - row; line++) {
+        System.out.print("#");
+    }
+    System.out.println("");
+}
+```
+
+Now, we have the answer:
+
+```
+#####
+####
+###
+##
+#
+```
