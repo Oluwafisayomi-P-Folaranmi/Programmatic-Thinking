@@ -1,4 +1,4 @@
-A_SIDEWAYS_TRIANGLE
+A SIDEWAYS TRIANGLE
 
 1. We can reduce the problem. Also, by doing what we know first,
 we can write a program that is similar to this. We can write out a rectangle,

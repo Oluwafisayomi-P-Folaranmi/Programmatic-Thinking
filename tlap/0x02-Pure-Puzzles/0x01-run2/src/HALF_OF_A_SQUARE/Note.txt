@@ -1,3 +1,5 @@
+HALF OF A SQUARE
+
 1. What program can we write that is similar to this?
 
 ```
