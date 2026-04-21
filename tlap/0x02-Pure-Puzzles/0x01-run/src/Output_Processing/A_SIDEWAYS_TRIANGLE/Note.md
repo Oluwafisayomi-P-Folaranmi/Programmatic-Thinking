@@ -59,7 +59,8 @@ which we can make use of:
 #
 ```
 
-| row | line | sum | difference | pattern
+| row | line | sum | difference | pattern |
+| --- | ---- | --- | ---------- | ------------------------
 |  1  |  1   |  2  |  0         |  4 - row = gives the space '3'
 |  2  |  2   |  4  |  0         |  4 - row = gives the space '2'
 |  3  |  3   |  6  |  0         |  4 - row = gives the space '1'

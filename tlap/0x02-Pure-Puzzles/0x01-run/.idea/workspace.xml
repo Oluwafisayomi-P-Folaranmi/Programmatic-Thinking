@@ -1,53 +1,84 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="797e691e-f19e-450d-b6f6-6ad5a1350bba" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/HALF_OF_A_SQUARE/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HALF_OF_A_SQUARE/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HALF_OF_A_SQUARE/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HALF_OF_A_SQUARE/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HALF_OF_A_SQUARE/demo.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HALF_OF_A_SQUARE/src/HALF_OF_A_SQUARE/HALF_OF_A_SQUARE.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HALF_OF_A_SQUARE/src/HALF_OF_A_SQUARE/note.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HALF_OF_A_SQUARE/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HALF_OF_A_SQUARE/src/Note.txt" beforeDir="false" />
+    <list default="true" id="7ac6df83-fd01-4c94-8cba-da8c71cb0e0a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Input_Processing/LUHN_CHECKSUM_VALIDATION/Note.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Input_Processing/LUHN_CHECKSUM_VALIDATION/UtilityClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Input_Processing/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Output_Processing/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/0x01-run.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0x01-run2/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0x01-run2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0x01-run2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0x01-run2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0x01-run2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0x01-run2/0x01-run2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0x01-run2/src/A_SIDEWAYS_TRIANGLE/A_SIDEWAYS_TRIANGLE.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0x01-run2/src/A_SIDEWAYS_TRIANGLE/Note.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0x01-run2/src/HALF_OF_A_SQUARE/HALF_OF_A_SQUARE.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0x01-run2/src/HALF_OF_A_SQUARE/Note.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0x01-run2/src/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
-  <component name="ProjectId" id="3CRoNMmgN0PDyHE5hryEP0P4j6G" />
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="3CRoXfYBY6V7p0IqBNcsqbSpKyw" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Folaranmi/Desktop/Dev/github-projects/Programmatic-Thinking/tlap/0x02-Pure-Puzzles/0x01-run",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Folaranmi/Desktop/Dev/github-projects/Programmatic-Thinking/tlap/0x02-Pure-Puzzles/0x01-run&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Folaranmi/Desktop/Dev/github-projects/Programmatic-Thinking/tlap/0x02-Pure-Puzzles/0x01-run2/src/Main.java&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="0x01-run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="0x01-run" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="797e691e-f19e-450d-b6f6-6ad5a1350bba" name="Changes" comment="" />
-      <created>1776357702936</created>
+      <changelist id="7ac6df83-fd01-4c94-8cba-da8c71cb0e0a" name="Changes" comment="" />
+      <created>1776357788010</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1776357702936</updated>
+      <updated>1776357788010</updated>
     </task>
     <servers />
   </component>

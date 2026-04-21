@@ -1,4 +1,4 @@
-package HALF_OF_A_SQUARE;
+package Output_Processing.HALF_OF_A_SQUARE;
 
 public class HALF_OF_A_SQUARE {
 

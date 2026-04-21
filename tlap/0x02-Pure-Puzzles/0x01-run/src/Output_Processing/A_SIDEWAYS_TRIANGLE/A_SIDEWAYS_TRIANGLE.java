@@ -1,4 +1,4 @@
-package A_SIDEWAYS_TRIANGLE;
+package Output_Processing.A_SIDEWAYS_TRIANGLE;
 
 public class A_SIDEWAYS_TRIANGLE {
 
